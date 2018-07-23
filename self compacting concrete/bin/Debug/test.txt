@@ -1,0 +1,132 @@
+﻿--------------------------------------------------------------------------------------------------------
+Mix reference: semmana
+23/02/2017 17:57:53
+Mortar volume                   2.5 L
+Sand/Mortar per Vol             50 %
+Water/Powder per Vol            1.26
+Superplasticiser par Vol        0.7 %
+Superplasticiser Density        1065 Kg/m3
+Water content Superplasticiser  65 %
+Density Sand                    2622 Kg/m3
+Sand water absorption           1.2 %
+Water01                         70 %
+Water02                         30 %
+Results:
+Volume per %
+Powder Vol                      22,12 %
+Water Vol                       27,88 %
+Sand Vol                        50 %
+Volume per L
+Sand                            1,25 L
+Water                           0,697 L
+cement                          0,138 L
+glass                           0,138 L
+bagasse                         0,138 L
+limestone                       0,138 L
+Quantity per Kg
+Sand                            3,237 Kg
+Total Water                     0,728 Kg
+Water01                         0,51 Kg
+Water02                         0,218 Kg
+Superplasticiser                0,012 Kg
+Water/Powder                    0,4
+cement                          0,436 Kg
+glass                           0,436 Kg
+bagasse                         0,436 Kg
+limestone                       0,436 Kg
+--------------------------------------------------------------------------------------------------------
+Mix reference: semmana
+23/02/2017 17:59:46
+Mortar volume                   2.5 L
+Sand/Mortar per Vol             50 %
+Water/Powder per Vol            1.26
+Superplasticiser par Vol        0.7 %
+Superplasticiser Density        1065 Kg/m3
+Water content Superplasticiser  65 %
+Density Sand                    2622 Kg/m3
+Sand water absorption           1.2 %
+Water01                         70 %
+Water02                         30 %
+Results:
+Volume per %
+Powder Vol                      22,12 %
+Water Vol                       27,88 %
+Sand Vol                        50 %
+Volume per L
+Sand                            1,25 L
+Water                           0,697 L
+cement                          0,277 L
+glass                           0,138 L
+bagasse                         0,138 L
+Quantity per Kg
+Sand                            3,237 Kg
+Total Water                     0,728 Kg
+Water01                         0,51 Kg
+Water02                         0,218 Kg
+Superplasticiser                0,012 Kg
+Water/Powder                    0,4
+cement                          0,871 Kg
+glass                           0,436 Kg
+bagasse                         0,436 Kg
+--------------------------------------------------------------------------------------------------------
+Mix reference: semmana
+23/02/2017 18:00:08
+Mortar volume                   2.5 L
+Sand/Mortar per Vol             50 %
+Water/Powder per Vol            1.26
+Superplasticiser par Vol        0.7 %
+Superplasticiser Density        1065 Kg/m3
+Water content Superplasticiser  65 %
+Density Sand                    2622 Kg/m3
+Sand water absorption           1.2 %
+Water01                         70 %
+Water02                         30 %
+Results:
+Volume per %
+Powder Vol                      22,12 %
+Water Vol                       27,88 %
+Sand Vol                        50 %
+Volume per L
+Sand                            1,25 L
+Water                           0,697 L
+cement                          0,277 L
+Glass                0,277 L
+Quantity per Kg
+Sand                            3,237 Kg
+Total Water                     0,728 Kg
+Water01                         0,51 Kg
+Water02                         0,218 Kg
+Superplasticiser                0,012 Kg
+Water/Powder                    0,4
+cement                          0,871 Kg
+Glass                0,871 Kg
+--------------------------------------------------------------------------------------------------------
+Mix reference: semmana
+23/02/2017 18:00:16
+Mortar volume                   2.5 L
+Sand/Mortar per Vol             50 %
+Water/Powder per Vol            1.26
+Superplasticiser par Vol        0.7 %
+Superplasticiser Density        1065 Kg/m3
+Water content Superplasticiser  65 %
+Density Sand                    2622 Kg/m3
+Sand water absorption           1.2 %
+Water01                         70 %
+Water02                         30 %
+Results:
+Volume per %
+Powder Vol                      22,12 %
+Water Vol                       27,88 %
+Sand Vol                        50 %
+Volume per L
+Sand                            1,25 L
+Water                           0,697 L
+cement                          0,553 L
+Quantity per Kg
+Sand                            3,237 Kg
+Total Water                     0,728 Kg
+Water01                         0,51 Kg
+Water02                         0,218 Kg
+Superplasticiser                0,012 Kg
+Water/Powder                    0,4
+cement                          1,742 Kg
