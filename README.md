@@ -10,6 +10,6 @@
 ![The results window](screenshots/4.png)
 ###### Finally, you can export the case in two format (doc and txt) and save the file where you want:
 ![The export window](screenshots/5.png)
-###### Bellow and exmple of exported file:
+###### Bellow and example of exported file:
 ![The export file window](screenshots/6.png)
 
